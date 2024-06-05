@@ -6,7 +6,14 @@ Your team has been assigned a new project for a client called Social Buzz.
 You’re hoping for a promotion at work, and this is an exciting opportunity for you to showcase your data analysis and visualization skills.
 
 ##  Tasks of Project:
-Task 1: Project Understanding.
+#### Task 1: Project Understanding.
+
+A data analyst sits between the business and the data.
+
+One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
+She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
+Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
+About Client : Social Buzz
 
 Task 2: Data Cleaning & Modeling.
 
